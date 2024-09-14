@@ -2,7 +2,8 @@ title: Sravya Arutla
 # logo: /assests/img/sravya_headshot.png
 description: Data Engineer
 # show_downloads: False
-theme: jekyll-theme-minimal
+
+logo: /assets/img/headshot_sravya.png
 
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
